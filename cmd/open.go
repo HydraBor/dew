@@ -58,6 +58,7 @@ var commands = map[string]string{
 	"windows": "start",
 	"darwin":  "open",
 	"linux":   "xdg-open",
+	"android": "xdg-open",
 }
 
 func OpenWebsite(path string) {
