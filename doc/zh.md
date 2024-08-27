@@ -20,7 +20,7 @@
 
 ### 或者使用go install 命令
   1. 下载golang(https://golang.google.cn/)
-  2. 使用命令 `go install github.com/jaxleof/dew@latest`
+  2. 使用命令 `go install github.com/Kanna-Neko/dew@latest`
 
 ## 特性
 |name|describe|
